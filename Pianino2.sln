@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pianino2", "Pianino2\Pianino2.csproj", "{117AA0F1-C702-43FB-9720-C5364B3BE997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117AA0F1-C702-43FB-9720-C5364B3BE997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117AA0F1-C702-43FB-9720-C5364B3BE997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117AA0F1-C702-43FB-9720-C5364B3BE997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117AA0F1-C702-43FB-9720-C5364B3BE997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D4DB08-C82C-4380-B80A-5C8D0A113A95}
+	EndGlobalSection
+EndGlobal

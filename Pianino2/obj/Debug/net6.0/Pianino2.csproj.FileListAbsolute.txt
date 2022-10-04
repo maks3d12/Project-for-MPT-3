@@ -1,0 +1,15 @@
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.exe
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.deps.json
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.runtimeconfig.json
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.dll
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\bin\Debug\net6.0\Pianino2.pdb
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.csproj.AssemblyReference.cache
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.AssemblyInfoInputs.cache
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.AssemblyInfo.cs
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.csproj.CoreCompileInputs.cache
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.dll
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\refint\Pianino2.dll
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.pdb
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\Pianino2.genruntimeconfig.cache
+C:\Users\Петрушка\source\repos\Pianino2\Pianino2\obj\Debug\net6.0\ref\Pianino2.dll
